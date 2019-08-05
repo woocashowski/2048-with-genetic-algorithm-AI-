@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1528796777 source:c:\users\admin\desktop\programowanie\2 semestr\projekt\2048_ga\ga.cpp
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<fstream>
+	"GA.h"
+
+1524570569 c:\users\admin\desktop\programowanie\2 semestr\projekt\2048_ga\ga.h
+	<iostream>
+
+1525692039 source:c:\users\admin\desktop\programowanie\2 semestr\projekt\2048_ga\main.cpp
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<conio.h>
+	"GA.h"
+
